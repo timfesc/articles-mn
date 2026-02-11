@@ -1,10 +1,24 @@
 {
   "articles": [
+     {
+      "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/1/1_LG_Ref_DoorCooling.png",
+      "title": "Эрчим хүчний хэмнэлттэй хөргөгч: Цахилгааны зардлаа хэрхэн бууруулах вэ",
+      "date": "10.02.2026",
+      "link": "https://lge.mn/lg-ref-doorcooling/"
+    },
+    {
+      "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/3/3.jpg",
+      "title": "Ирээдүйн технологи бидний амьдралд: 2026 онд LG-ийн инноваци өдөр тутмын амьдралыг хэрхэн өөрчилж байна вэ?",
+      "date": "10.02.2026",
+      "link": "https://lge.mn/lg-ces-2026/"
+    },
       {
       "category": "Технологи",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/a-dec/pr-mongolia/EXA_0012.jpg",
       "title": "LG ELECTRONICS БОЛОН BSB ГРУПП КОМПАНИ ДЭЛХИЙН АНХНЫ НЭВТ ХАРАГДАХ ДЭЛГЭЦ",
-      "date": "23.01.2025",
+      "date": "23.01.2026",
       "link": "https://lge.mn/LG-ELECTRONICS-AND-BSB-INTRODUCE/"
     },
     {
