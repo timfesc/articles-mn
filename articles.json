@@ -1,5 +1,12 @@
 {
   "articles": [
+    {
+      "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/24/lg_washtower-1.jpg",
+      "title": "LG Electronics-ийн WashTower угаалгын машин дэлхий даяар 3.2 сая ширхэгийг борлуулжээ",
+      "date": "01.04.2026",
+      "link": "https://lge.mn/lg-magazine/lg-electronics-surpasses-million-units-sold/"
+    },
      {
       "category": "Технологи",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/1/1_LG_Ref_DoorCooling.png",
