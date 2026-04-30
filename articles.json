@@ -2,6 +2,20 @@
   "articles": [
     {
       "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/34/Omdia_Image_1_50.png",
+      "title": "LG Electronics дэлхийд шилдэг байр сууриа 13 дахь жилдээ бататгаж OLED зурагтын зах зээлийг тэргүүлсээр байна.",
+      "date": "30.04.2026",
+      "link": "https://lge.mn/lg-magazine/lg-electronics-continues-to-lead-oled/"
+    },
+    {
+      "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/34/LG_QNED_evo_Mini_LED_Image_1_50.png",
+      "title": "LG Electronics 2026 оны QNED evo Mini LED зурагтын шинэ цувралаа танилцууллаа —115 инчийн том дэлгэцтэй загвар онцлов",
+      "date": "30.04.2026",
+      "link": "https://lge.mn/lg-magazine/lg-electronics-qned-evo-mini-led/"
+    },
+    {
+      "category": "Технологи",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/24/lg_washtower-1.jpg",
       "title": "LG Electronics-ийн WashTower угаалгын машин дэлхий даяар 3.2 сая ширхэгийг борлуулжээ",
       "date": "01.04.2026",
