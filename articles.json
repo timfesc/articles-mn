@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Технологи",
+      "image": "https://raw.githubusercontent.com/alen-omarbayev/LG/main/kg-articles/2/PREVIEW(155).png",
+      "title": "LG электроникс дэлхийд анхдагч үндсэн 1000 гц бүрэн hd тоглоомын мониторыг танилцууллаа.",
+      "date": "20.05.2026",
+      "link": "https://lge.mn/lg-magazine/lg-introduces-world's-first-full-hd-gaming-monitor-with-refresh-rate-up-to-1000hz/"
+    },
+    {
+      "category": "Технологи",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-january/34/Omdia_Image_1_50.png",
       "title": "LG Electronics дэлхийд шилдэг байр сууриа 13 дахь жилдээ бататгаж OLED зурагтын зах зээлийг тэргүүлсээр байна.",
       "date": "30.04.2026",
