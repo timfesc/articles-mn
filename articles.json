@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Бүтээгдэхүүн",
+      "image": "https://raw.githubusercontent.com/timfesc/articles-mn/main/2/PREVIEW.png",
+      "title": "Инновацлаг, эрчим хүчний хэмнэлттэй хөргөгч: мөнгө болон цахилгаан эрчим хүчээ хэмнэх нь",
+      "date": "03.06.2026",
+      "link": "https://lge.mn/lg-magazine/the-best-energy-efficient-refrigerators/"
+    },
+    {
       "category": "Технологи",
       "image": "https://raw.githubusercontent.com/alen-omarbayev/LG/main/kg-articles/2/PREVIEW(155).png",
       "title": "LG электроникс дэлхийд анхдагч үндсэн 1000 гц бүрэн hd тоглоомын мониторыг танилцууллаа.",
