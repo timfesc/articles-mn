@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-may/17/PREVIEW.png",
+      "title": "LG WashTower ашиглан хувцас арчилгааг хэрхэн илүү хялбар болгох вэ? ",
+      "date": "16.06.2026",
+      "link": "https://lge.mn/lg-magazine/how-to-make-clothes-care-easier-with-the-lg-washtower/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-may/10/PREVIEW(160).png",
       "title": "Хотын тав тухтай амьдрал: агааржуулагч таны амьдралын хэв маягт хэрхэн дасан зохицдог вэ?",
       "date": "09.06.2026",
