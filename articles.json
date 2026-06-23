@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-june/3/PREVIEW(157).png",
+      "title": "LG InstaView: орчин үеийн гал тогоонд зориулсан 10 жилийн инновац",
+      "date": "17.06.2026",
+      "link": "https://lge.mn/lg-magazine/lg-instaview-a-decade-of-innovation-for-the-modern-kitchen/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-may/17/PREVIEW.png",
       "title": "LG WashTower ашиглан хувцас арчилгааг хэрхэн илүү хялбар болгох вэ? ",
       "date": "16.06.2026",
