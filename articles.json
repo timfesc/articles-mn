@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-july/1/PREVIEW.png",
+      "title": "LG хөргөгчөө хэрхэн сонгох вэ?: тав тухтай амьдралд зориулсан зөвлөмж",
+      "date": "07.07.2026",
+      "link": "https://lge.mn/lg-magazine/how-to-choose-an-lg-refrigerator-a-complete-guide-for-comfortable-living/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-june/4/PREVIEW(167).png",
       "title": "Босоо тоос сорогчийг хэрхэн цэвэрлэх вэ?: нарийвчилсан заавар",
       "date": "23.06.2026",
