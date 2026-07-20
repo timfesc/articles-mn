@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-july/5/PREVIEW.png",
+      "title": "MRGB ба OLED evo: ялгаа нь юу вэ?, аль дэлгэцийг сонгох нь зүйтэй вэ?",
+      "date": "14.07.2026",
+      "link": "https://lge.mn/lg-magazine/mrgb-and-oled-evo-whats-the-difference-and-which-screen-should-you-choose/"
+    },
+    {
       "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-july/1/PREVIEW.png",
       "title": "LG хөргөгчөө хэрхэн сонгох вэ?: тав тухтай амьдралд зориулсан зөвлөмж",
