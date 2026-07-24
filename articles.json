@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Компани",
+      "image": "https://raw.githubusercontent.com/alen-omarbayev/LG/main/tj-articles/2/PREVIEW.png",
+      "title": "LG-ИЙН ТОГТВОРТОЙ ХӨГЖЛИЙН ШИНЭ ТАЙЛАН: 2025 ОНД SCOPE 1, SCOPE 2 АНГИЛЛЫН ХҮЛЭМЖИЙН ХИЙН ЯЛГАРЛЫН ХЭМЖЭЭ 2030 ОНЫ ЗОРИЛТОТ ТҮВШНЭЭС ДООГУУР БАЙВ",
+      "date": "17.07.2026",
+      "link": "https://lge.mn/lg-magazine/lg-publishes-2025–2026-sustainability-report-scope-1-and-2-emissions-already-below-2030-target/"
+    },
+    {
       "category": "Технологи",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-july/5/PREVIEW.png",
       "title": "MRGB ба OLED evo: ялгаа нь юу вэ?, аль дэлгэцийг сонгох нь зүйтэй вэ?",
