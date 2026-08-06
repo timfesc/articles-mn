@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Компани",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/2/PREVIEW.png",
+      "title": "LG-ИЙН 600 КВТ-ЫН ХӨРГӨЛТИЙН ШИНГЭН ХУВААРИЛАХ ТӨХӨӨРӨМЖ NVIDIA AI FACTORY ГЭРЧИЛГЭЭ АВЛАА",
+      "date": "27.07.2026",
+      "link": "https://lge.mn/lg-magazine/lgs-600kw-coolant-distribution-unit-cdu-is-nvidia-ai-factory-certified/"
+    },
+    {
       "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-july/12/PREVIEW.png",
       "title": "Гэр бүлдээ тохирох зурагтыг хэрхэн сонгох вэ?: Худалдан авалтын өмнөх гол үзүүлэлтүүд",
