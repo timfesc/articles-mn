@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/5/PREVIEW.png",
+      "title": "Ажлын болон сургалтын хэрэгцээнээс эхлээд дизайн, тоглоом тоглох хүртэл — өөрийн хэрэгцээнд тохирох мониторыг хэрхэн сонгох вэ? ",
+      "date": "06.08.2026",
+      "link": "https://lge.mn/lg-magazine/how-to-choose-a-monitor-for-different-tasks:-from-work-and-study-to-design-and-gaming/"
+    },
+    {
       "category": "Компани",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/2/PREVIEW.png",
       "title": "LG-ИЙН 600 КВТ-ЫН ХӨРГӨЛТИЙН ШИНГЭН ХУВААРИЛАХ ТӨХӨӨРӨМЖ NVIDIA AI FACTORY ГЭРЧИЛГЭЭ АВЛАА",
