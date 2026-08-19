@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Компани",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/9/PREVIEW.png",
+      "title": "LG ELECTRONICS NVIDIA-ТАЙ ХЭРЭГЖҮҮЛЖ БУЙ РОБОТИКИЙН ХАМТЫН АЖИЛЛАГААГАА ЭРЧИМЖҮҮЛЖ БАЙНА ",
+      "date": "18.08.2026",
+      "link": "https://lge.mn/lg-magazine/lg-electronics-accelerates-robotics-collaboration-with-nvidia/"
+    },
+    {
       "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/8/PREVIEW.png",
       "title": "Жимс, хүнсний ногоо, жимсгэнэ зэргийг хөргөгчинд хэрхэн зөв хадгалж, шинэлэг байдлыг нь удаан хадгалах вэ?",
