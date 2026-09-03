@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/1/preview.png",
+      "title": "OLED зурагтын талаарх буруу ойлголт ба үнэн: ашиглалт, өдөр тутмын хэрэглээний талаар",
+      "date": "31.08.2026",
+      "link": "https://lge.mn/lg-magazine/myths-and-truth-about-oled-tvs-service-life-and-everyday-use/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/17/preview.png",
       "title": "Угаалтыг хэвшмэл ойлголтоос ангид болгоё: LG WashTower™-ийн талаарх 5 түгээмэл буруу ойлголт",
       "date": "27.08.2026",
