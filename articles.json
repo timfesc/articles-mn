@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/9/PREVIEW.png",
+      "title": "Намрын температурын хэлбэлзлийн үед гэрийн дотоод орчны тав тухыг хэрхэн хадгалах вэ?",
+      "date": "15.09.2026",
+      "link": "https://lge.mn/lg-magazine/namryn-temperaturyn-helbelzliin-ued-geriin-dotood-orchnii-tav-tuhiig-herhen-hadgalah-ve/"
+    },
+    {
       "category": "Технологи",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/8/PREVIEW.png",
       "title": "LG ELECTRONICS IFA 2026 ҮЗЭСГЭЛЭНД TÜV RHEINLAND-ААС ӨНГӨНИЙ ӨНДӨР НЯГТАРШЛЫГ БАТАЛГААЖУУЛСАН RGB ЗУРАГТЫН ЦУВРАЛЫГ ТАНИЛЦУУЛЛАА ",
