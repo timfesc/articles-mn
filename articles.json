@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Технологи",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/8/PREVIEW.png",
+      "title": "LG ELECTRONICS IFA 2026 ҮЗЭСГЭЛЭНД TÜV RHEINLAND-ААС ӨНГӨНИЙ ӨНДӨР НЯГТАРШЛЫГ БАТАЛГААЖУУЛСАН RGB ЗУРАГТЫН ЦУВРАЛЫГ ТАНИЛЦУУЛЛАА ",
+      "date": "05.09.2026",
+      "link": "https://lge.mn/lg-magazine/lg-micro-rgb-evo-premium-rgb-tv-ifa-2026/"
+    },
+    {
       "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/7/PREVIEW.png",
       "title": "LG ELECTRONICS IFA 2026 ҮЗЭСГЭЛЭН ДЭЭР ГЭР АХУЙН ЦАХИЛГААН ХЭРЭГСЛИЙН 7 ГОЛ ШИЙДЛИЙГ ТАНИЛЦУУЛЛАА ",
