@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/16/PREVIEW.png",
+      "title": "Намрын үдшийг хамтдаа: гэр бүлээрээ үзэх зурагт",
+      "date": "30.09.2026",
+      "link": "https://lge.mn/lg-magazine/namryn-udshiig-khamtdaa-ger-buliin-zuragt/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/9/PREVIEW.png",
       "title": "Намрын температурын хэлбэлзлийн үед гэрийн дотоод орчны тав тухыг хэрхэн хадгалах вэ?",
       "date": "15.09.2026",
