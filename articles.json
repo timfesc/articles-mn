@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-october/4/PREVIEW.png",
+      "title": "LG OLED evo W6: шинэ үеийн дээд зэрэглэлийн зурагт",
+      "date": "12.10.2026",
+      "link": "https://lge.mn/lg-magazine/lg-oled-evo-w6-premium-tv/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-sept/16/PREVIEW.png",
       "title": "Намрын үдшийг хамтдаа: гэр бүлээрээ үзэх зурагт",
       "date": "30.09.2026",
