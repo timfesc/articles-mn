@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-october/5/PREVIEW.png",
+      "title": "LG UltraGear G5: 300 Гц тоглоомын дэлгэц",
+      "date": "14.10.2026",
+      "link": "https://lge.mn/lg-magazine/lg-ultragear-g5-gaming-monitor/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-october/4/PREVIEW.png",
       "title": "LG OLED evo W6: шинэ үеийн дээд зэрэглэлийн зурагт",
       "date": "12.10.2026",
