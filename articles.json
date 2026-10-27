@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/27/PREVIEW.png",
+      "title": "LG Art TV: урлаг ба технологийн зохицол",
+      "date": "22.10.2026",
+      "link": "https://lge.mn/lg-magazine/lg-art-tv-urlag-ba-interyer/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-october/7/PREVIEW.png",
       "title": "Хиймэл оюун гэрийн ажлыг хэрхэн хөнгөвчилдөг вэ",
       "date": "20.10.2026",
