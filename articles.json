@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-october/8/PREVIEW.png",
+      "title": "LG угаалгын машиныг хэрхэн цэвэрлэх вэ",
+      "date": "27.10.2026",
+      "link": "https://lge.mn/lg-magazine/lg-ugaalgiin-mashinyg-herhen-tseverleh-ve/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-august/27/PREVIEW.png",
       "title": "LG Art TV: урлаг ба технологийн зохицол",
       "date": "22.10.2026",
