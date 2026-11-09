@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-nov/4/PREVIEW.png",
+      "title": "Утасгүй тоос сорогч цэвэрлэгээг хэрхэн өөрчилдөг вэ",
+      "date": "06.11.2026",
+      "link": "https://lge.mn/lg-magazine/lg-utасgui-toos-sorogch-tseverlegeenii-dadlyg-herhen-oorchildog/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-nov/3/PREVIEW.png",
       "title": "Гэр бүлдээ зориулан өвөл юу, хэрхэн хөлдөөх вэ",
       "date": "04.11.2026",
