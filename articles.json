@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "category": "Компани",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-nov/5/11.jpg",
+      "title": "LG CES 2027 Innovation Awards-аас шагнал хүртлээ",
+      "date": "10.11.2026",
+      "link": "https://lge.mn/lg-magazine/ces-2027-innovation-awards/"
+    },
+    {
       "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-nov/5/PREVIEW.png",
       "title": "Хөргөгч яагаад дүнгэнэж, угаалгын машин доргидог вэ?",
