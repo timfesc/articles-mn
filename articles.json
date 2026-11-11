@@ -2,6 +2,13 @@
   "articles": [
     {
       "category": "Бүтээгдэхүүн",
+      "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-nov/5/PREVIEW.png",
+      "title": "Хөргөгч яагаад дүнгэнэж, угаалгын машин доргидог вэ?",
+      "date": "10.11.2026",
+      "link": "https://lge.mn/lg-magazine/home-appliance-troubleshooting/"
+    },
+    {
+      "category": "Бүтээгдэхүүн",
       "image": "https://www.lg.com/content/dam/channel/wcms/kz/aa-nov/4/PREVIEW.png",
       "title": "Утасгүй тоос сорогч цэвэрлэгээг хэрхэн өөрчилдөг вэ",
       "date": "06.11.2026",
